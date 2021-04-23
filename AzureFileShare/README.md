@@ -1,4 +1,4 @@
-# ContainerExamples
+# Create SYMLINK to Azure File Share
 
 This example creats windows container from mcr.microsoft.com/dotnet/framework/aspnet:4.8-windowsservercore-ltsc2019 and call Powershell script using entrypoint to configure SYMLINK
 
